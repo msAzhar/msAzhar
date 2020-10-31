@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi devs 👋
 
 <!--
 **msAzhar/msAzhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm still working on finding my self and place in this mysterious world. And here are some discoveries about me:
+
+- 🌱 I really like watering my knowledgepot (well.. it's beacuse I'm an human-being)
+- 🔭:ringed_planet: I’m interested in space as a hobby, and as a profession: 
+- :sunglasses: I'm on my way to become a master in sofware development
+- 😄 here are some advantages of my perfectionism:
+    - it leads me to use principles for clean coding :D ...
+    - it makes me follow the coding conventions as much as possible..
+- .....(coming soon)
